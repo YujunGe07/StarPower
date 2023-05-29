@@ -1,0 +1,52 @@
+/* ------------------------------ APPLIES TO ALL ------------------------------ */
+
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Lato', sans-serif;
+}
+
+/* ---------------------------------- HEADER ---------------------------------- */
+#header{
+    background-image:url("../img/Walking\ to\ the\ Stars\ cover\ page.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+#header nav{
+    position:fixed;
+    padding:20px 10px;
+    width: 100%;
+    z-index: 2;
+
+}
+#header nav ul{
+    list-style: none;
+    position:absolute;
+    right:5%;
+    top:40%;
+    transform:translate(0,-50%);
+}
+
+#header nav li{
+    float:left;
+    margin:0 20px;
+}
+
+
+#header nav img{
+    width:100px;
+    margin-left: 40px;
+}
+
+
+#header nav a{
+    text-decoration: none;
+    color:white;
+}
+
+#header nav a:hover{
+    
+}

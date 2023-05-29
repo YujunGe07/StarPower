@@ -1,0 +1,14 @@
+/* ---------------------------------- APPLY TO ALL ---------------------------------- */
+*{
+    margin:0;
+    padding: 0;
+    font-family:'Open Sans','sans-serif';
+}
+
+:root{
+    --dark: #333333;
+    --yellow: #ffd700;
+    --light-grey: #f5f5f5;
+    --light-yellow: rgba(255, 215, 0, 0.4);
+}
+
