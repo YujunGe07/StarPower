@@ -19,7 +19,7 @@
 }
 
 .line{
-    height:2px;
+    height:3px;
     width:100px;
     background-color:black;
     margin-top:25px;
@@ -280,4 +280,61 @@ section{
 #about .icon i{
     margin-left: 30px;
     font-size: 40px;
+}
+
+/* ---------------------------------- WHY ---------------------------------- */
+#why .line{
+    margin-bottom: 40px;
+}
+
+#why h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#why h2{
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+#why .one-of-three{
+    margin-top: 20px;
+    width: 330px;
+    height: 500px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+}
+
+#why .two{
+    margin-left: 80px;
+}
+
+#why .three{
+    margin-left: 80px;
+}
+
+#why img{
+    width: 110px;
+    height: 110px;
+    margin-top: 40px;
+}
+
+#why h3{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#why .underline{
+    width: 180px;
+    height: 17px;
+    background: rgba(255, 215, 0, 0.31);
+    margin: 0 auto;
+}
+
+#why p{
+    width: 230px;
+    margin: 0 auto;
+    margin-top: 30px;
+    line-height: 30px;
 }
